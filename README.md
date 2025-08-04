@@ -1,1 +1,3 @@
-# kamalpractice
+# README
+
+Practice with Eli.
